@@ -101,7 +101,7 @@ Mathematically the Fibonacci numbers are defined as:
 Regressions
 -----------
 
-Regression analysis is a way to determine a realtion between different parameters or variables. Such a relation might
+Regression analysis is a way to determine a relation between different parameters or variables. Such a relation might
 be linear (first order) or polynominal (higher order). To determine how good the fit of the regression is to the actual
 data, we can calcualte the :math:`R^2` value. The higher the :math:`R^2` value, the better the fit to the data. Let's look at the figure below.
 Here the green dots are our exemplary datapoint. Panel 1 shows a linear fit, Panel 2 a second order, Panel 3 a third
